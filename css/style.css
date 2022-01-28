@@ -70,8 +70,6 @@ p {
   margin-bottom: 1rem;
 }
 abbr[title], abbr[data-original-title] {
-  text-decoration: underline;
-  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
@@ -8625,8 +8623,8 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
   font-size: 26px;
   padding: .7rem 20px;
-  color: #000000;
-  font-weight: 400;
+  color: #FFFFFF;
+  font-weight: 700;
   opacity: 1 !important;
 }
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span {
