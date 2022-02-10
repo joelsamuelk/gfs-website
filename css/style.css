@@ -8622,7 +8622,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
   font-size: 26px;
-  padding: .7rem 20px;
+  padding: 10px 20px;
   color: #000000;
   font-weight: 700;
   opacity: 1 !important;
@@ -10816,7 +10816,6 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 #login-menu {
   font-weight: 800;
-  display: none;
 }
 
 p.paragraph-text {
